@@ -1,0 +1,97 @@
+.top{
+    background-image: url("https://gumlet.assettype.com/nationalherald%2F2020-06%2Faff53e73-fd7c-48e1-9adf-73f8e7252dc5%2FJama_Masjid__1_.jpg?rect=0%2C35%2C1200%2C675&auto=format%2Ccompress&fmt=webp&w=400&dpr=2.6");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.middle{
+    background-color: white;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1,h3{
+    text-align: center;
+}
+.bottom{
+    background-color: red;
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+        align-items: center;
+        text-align: center;
+
+}
+
+.bottom div{
+    margin: 0 50px;
+}
+
+.venue{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
+
+.midflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.art1{
+    flex-basis: 30;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.art2{
+    flex-basis: 40;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.art3{
+    flex-basis: 30;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    height: 5vh;
+    width: auto;
+}
+button{
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+.pic2{
+    list-style-image: image(center);
+    text-align: center;
+}
+.img1{
+    text-align: right ;
+    flex-direction: column;
+}
+.img1{
+    align-items: right;
+    flex-direction: column;
+    
+}
